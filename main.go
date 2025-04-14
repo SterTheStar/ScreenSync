@@ -24,7 +24,7 @@ import (
 	"github.com/shirou/gopsutil/v3/process"
 )
 
-const webhookURL = "https://discord.com/api/webhooks/1361019171478966303/0uEUH0z7MF2N-l9qai6MyXiDqCIKK2QA6BhJW4k7r-tLMteEJTMviwDIdkCbEAGLFJX8" // seu webhook aqui
+const webhookURL = "seu_webhook_aqui" // seu webhook aqui
 
 type EmbedField struct {
 	Name   string `json:"name"`
